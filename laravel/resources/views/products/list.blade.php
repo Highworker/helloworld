@@ -1,4 +1,8 @@
-<h1>Products Bla bla</h1>
+<head>
+    <title>Helloworld - Products</title>
+</head>
+<h1>Helloworld Products</h1>
+<p>Simply CRUD for Products</p>
 
 <ul>
     @foreach($products as $product)
